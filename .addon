@@ -1,0 +1,14 @@
+{
+  "Title": "fish",
+  "Type": "content",
+  "Org": "plazmium",
+  "Ident": "fish",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {}
+}
